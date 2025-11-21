@@ -1,5 +1,5 @@
 function saludar(){
-    return "A los buenos días desde juan"
+    return "Buenaz chabales desde gsu"
 }
 
 console.log(saludar())
